@@ -33,4 +33,10 @@ getwd()
 # note OxO+ lower value (negative number)
 # note ANOVA table
 
-Plus <- 
+summary(filter(Transgen2, Type == "OxO-")$Height)
+summary(filter(Transgen2, Type == "OxO+")$Height)
+
+Neg <- mean(filter(Transgen2, Type == "OxO-")$Height, na.rm = TRUE)
+Pos <- mean(filter(Transgen2, Type == "OxO+")$Height, na.rm = TRUE)
+
+Neg - Pos
