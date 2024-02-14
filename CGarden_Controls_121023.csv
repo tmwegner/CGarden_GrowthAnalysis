@@ -1,0 +1,104 @@
+﻿Plot,TreeID,Type,Mother,Row,Pos,Height
+Common Garden,D2-10-3,B3F2,D2-10,A,3,1.38
+Common Garden,D2-10-3,B3F2,D2-10,A,12,1.12
+Common Garden,D2-10-3,B3F2,D2-10,C,20,1.36
+Common Garden,D2-10-3,B3F2,D2-10,H,3,0.94
+Common Garden,D2-10-3,B3F2,D2-10,H,4,1.05
+Common Garden,D2-10-3,B3F2,D2-10,K,22,0.85
+Common Garden,D2-10-3,B3F2,D2-10,K,27,0.94
+Common Garden,D2-10-3,B3F2,D2-10,M,13,0.2
+Common Garden,D2-10-3,B3F2,D2-10,N,13,0.53
+Common Garden,D2-10-3,B3F2,D2-10,N,14,0.75
+Common Garden,D2-10-3,B3F2,D2-10,P,9,1.18
+Common Garden,D2-10-3,B3F2,D2-10,Q,13,1.97
+Common Garden,D2-10-3,B3F2,D2-10,S,20,0.8
+Common Garden,D2-26-66,B3F2,D2-26,A,4,1.15
+Common Garden,D2-26-66,B3F2,D2-26,A,11,0.75
+Common Garden,D2-26-66,B3F2,D2-26,A,21,0.75
+Common Garden,D2-26-66,B3F2,D2-26,D,22,1.7
+Common Garden,D2-26-66,B3F2,D2-26,F,6,1.69
+Common Garden,D2-26-66,B3F2,D2-26,F,13,1.1
+Common Garden,D2-26-66,B3F2,D2-26,G,9,1.68
+Common Garden,D2-26-66,B3F2,D2-26,G,14,1.14
+Common Garden,D2-26-66,B3F2,D2-26,H,7,1.61
+Common Garden,D2-26-66,B3F2,D2-26,H,28,1.38
+Common Garden,D2-26-66,B3F2,D2-26,J,11,0.77
+Common Garden,D2-26-66,B3F2,D2-26,J,17,1.25
+Common Garden,D2-26-66,B3F2,D2-26,K,20,0.95
+Common Garden,D2-26-66,B3F2,D2-26,K,24,1.04
+Common Garden,D2-26-66,B3F2,D2-26,K,28,0.65
+Common Garden,D2-26-66,B3F2,D2-26,O,4,0.8
+Common Garden,D2-26-66,B3F2,D2-26,O,22,0.84
+Common Garden,D2-26-66,B3F2,D2-26,P,15,1.23
+Common Garden,D2-26-66,B3F2,D2-26,R,20,1.66
+Common Garden,D2-26-66 x open (2020),B3F2,D2-26,G,13,
+Common Garden,Greg Miller Chinese,Chinese,GM-C,A,9,0.83
+Common Garden,Greg Miller Chinese,Chinese,GM-C,A,10,0.62
+Common Garden,Greg Miller Chinese,Chinese,GM-C,A,22,0.92
+Common Garden,Greg Miller Chinese,Chinese,GM-C,C,1,0.75
+Common Garden,Greg Miller Chinese,Chinese,GM-C,F,14,1.13
+Common Garden,Greg Miller Chinese,Chinese,GM-C,H,9,0.93
+Common Garden,Greg Miller Chinese,Chinese,GM-C,H,10,1.59
+Common Garden,Greg Miller Chinese,Chinese,GM-C,H,17,1.32
+Common Garden,Greg Miller Chinese,Chinese,GM-C,J,10,1.42
+Common Garden,Greg Miller Chinese,Chinese,GM-C,J,12,1.1
+Common Garden,Greg Miller Chinese,Chinese,GM-C,J,18,1.28
+Common Garden,Greg Miller Chinese,Chinese,GM-C,K,16,0.6
+Common Garden,Greg Miller Chinese,Chinese,GM-C,K,19,0.64
+Common Garden,Greg Miller Chinese,Chinese,GM-C,K,21,0.53
+Common Garden,Greg Miller Chinese,Chinese,GM-C,K,23,0.77
+Common Garden,Greg Miller Chinese,Chinese,GM-C,M,17,0.68
+Common Garden,Greg Miller Chinese,Chinese,GM-C,S,15,1.5
+Common Garden,VT-Chinese,Chinese,VT-C,B,5,1.47
+Common Garden,VT-Chinese,Chinese,VT-C,B,6,0.87
+Common Garden,VT-Chinese,Chinese,VT-C,B,19,0.69
+Common Garden,VT-Chinese,Chinese,VT-C,B,20,0.8
+Common Garden,VT-Chinese,Chinese,VT-C,E,1,0.2
+Common Garden,VT-Chinese,Chinese,VT-C,E,2,0.73
+Common Garden,VT-Chinese,Chinese,VT-C,F,5,1.16
+Common Garden,VT-Chinese,Chinese,VT-C,F,15,0.95
+Common Garden,VT-Chinese,Chinese,VT-C,G,10,0.35
+Common Garden,VT-Chinese,Chinese,VT-C,G,16,0.84
+Common Garden,VT-Chinese,Chinese,VT-C,G,17,0.97
+Common Garden,VT-Chinese,Chinese,VT-C,H,5,0.9
+Common Garden,VT-Chinese,Chinese,VT-C,H,18,1.15
+Common Garden,VT-Chinese,Chinese,VT-C,H,27,1
+Common Garden,VT-Chinese,Chinese,VT-C,I,17,1
+Common Garden,VT-Chinese,Chinese,VT-C,I,25,1.23
+Common Garden,VT-Chinese,Chinese,VT-C,I,26,0.57
+Common Garden,VT-Chinese,Chinese,VT-C,J,9,0.75
+Common Garden,VT-Chinese,Chinese,VT-C,K,3,1.02
+Common Garden,VT-Chinese,Chinese,VT-C,K,8,0.76
+Common Garden,VT-Chinese,Chinese,VT-C,K,15,0.78
+Common Garden,VT-Chinese,Chinese,VT-C,L,17,0.99
+Common Garden,VT-Chinese,Chinese,VT-C,L,18,0.71
+Common Garden,VT-Chinese,Chinese,VT-C,M,14,0.5
+Common Garden,VT-Chinese,Chinese,VT-C,N,18,0.05
+Common Garden,VT-Chinese,Chinese,VT-C,O,3,1.14
+Common Garden,VT-Chinese,Chinese,VT-C,P,10,0.7
+Common Garden,VT-Chinese,Chinese,VT-C,Q,19,1.01
+Common Garden,VT-Chinese,Chinese,VT-C,Q,20,1
+Common Garden,VT-Chinese,Chinese,VT-C,R,19,1.22
+Common Garden,VT-Chinese,Chinese,VT-C,R,23,0.22
+Common Garden,VT-Chinese,Chinese,VT-C,R,24,1.19
+Common Garden,VT-Chinese,Chinese,VT-C,R,25,1.26
+Common Garden,VT-Chinese,Chinese,VT-C,R,26,1.03
+Common Garden,VT-Chinese,Chinese,VT-C,S,19,0.53
+Common Garden,VT-Chinese,Chinese,VT-C,S,23,1.17
+Common Garden,VT-F1-75,F1,VT-F1,C,2,1.39
+Common Garden,VT-F1-75,F1,VT-F1,C,19,1.55
+Common Garden,VT-F1-75,F1,VT-F1,D,9,1
+Common Garden,VT-F1-75,F1,VT-F1,D,10,1.96
+Common Garden,VT-F1-75,F1,VT-F1,G,15,1.25
+Common Garden,VT-F1-75,F1,VT-F1,G,18,0.88
+Common Garden,VT-F1-75,F1,VT-F1,H,6,1.61
+Common Garden,VT-F1-75,F1,VT-F1,H,8,1.37
+Common Garden,VT-F1-75,F1,VT-F1,I,18,1.5
+Common Garden,VT-F1-75,F1,VT-F1,K,4,0.96
+Common Garden,VT-F1-75,F1,VT-F1,K,7,1.6
+Common Garden,VT-F1-75,F1,VT-F1,M,18,1.44
+Common Garden,VT-F1-75,F1,VT-F1,N,17,1.05
+Common Garden,VT-F1-75,F1,VT-F1,O,21,0.9
+Common Garden,VT-F1-75,F1,VT-F1,P,16,0.82
+Common Garden,VT-F1-75,F1,VT-F1,Q,14,1.28
+Common Garden,VT-F1-75,F1,VT-F1,S,16,1.02
